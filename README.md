@@ -1,5 +1,5 @@
-#ToStringVerifier
-####if you are frustrated by every time your class coverage fails because of toString() method implementation.
+# ToStringVerifier
+#### if you are frustrated by every time your class coverage fails because of toString() method implementation.
 
 
 ```java
@@ -37,17 +37,5 @@ class FooTest {
     }
 }
 
-```
-
-## Getting Started
-
-### Add as a maven dependency 
-```xml
-<dependency>
-    <groupId>com.vp</groupId>
-    <artifactId>tostringverifier</artifactId>
-    <version>0.0.1</version>
-    <scope>test</scope>
-</dependency>
 ```
         
